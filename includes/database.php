@@ -9,6 +9,6 @@ if (!$db) {
     exit;
 } 
 
-echo 'Successful Connection :)';
+// echo 'Successful Connection :)';
 
 ?>
